@@ -1,3 +1,14 @@
+# 스펙
+  Mvvm + databinding
+  Multi-modules
+  Navigation Component
+  ViewModel
+  LiveData
+  Coroutines
+  Koin
+  MockWebServer
+  Mockk
+
 # ArchApp
 Simple Android app to show how to design a multi-modules MVVM Android app (fully tested).
 
